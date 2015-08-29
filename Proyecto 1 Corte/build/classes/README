@@ -1,0 +1,28 @@
+Documentacion corte1
+http://www.tutorialspoint.com/design_pattern/singleton_pattern.htm
+http://www.tutorialspoint.com/design_pattern/abstract_factory_pattern.htm
+http://www.tutorialspoint.com/design_pattern/factory_pattern.htm
+http://www.tutorialspoint.com/design_pattern/prototype_pattern.htm
+http://www.tutorialspoint.com/design_pattern/builder_pattern.htm
+
+
+Consideraciones:
+Temas por materia
+Temas de la pregunta
+Permitir a estudiantes Realizar Examen
+Complejidad Pregunta
+Editor de preguntas y Respuestas
+Cargar Preguntas (Desde un archivo)
+
+
+
+Cada modulo de Administrar (Crear, Modificar, Listar, Eliminar )
+Requerimientos Funcionales
+1. Administrar Materias
+2. Administrar Estudiantes
+3. Administrar Preguntas
+4. Administrar Temas
+5. Administrar Examenes (Cuestionarios)
+6. Generar Examen (Cuestionario)
+7. Realizar Examen (Cuestionario)
+8. Validar Respuestas Estudiante
